@@ -1,4 +1,4 @@
-# Underscore make number easier to read and doesn't effect in values
+# Underscore makes number easier to read and doesn't effect in values
 num1 = 100_000_000
 num2 = 1_000_000
 
